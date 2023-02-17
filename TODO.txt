@@ -1,0 +1,21 @@
+- Analysis over all years -- done
+- Geo Analysis -- done
+- Feature Engineering -- done
+- Feature selection -- not done
+- Feature importance -- done
+- Hyperparameter tuning -- done
+- retraining: save as pickle
+- XAI Shap et LightGBM
+
+
+
+
+
+
+
+https://github.com/Noxx23/-data-science-portfolio-  
+https://github.com/DValide/OC-DS-P4-Anticipez-les-besoins-en-consommation-de-batiments/blob/main/P_elec_01_notebook_nettoyage.ipynb  
+https://github.com/Rabenco/P4_Prevision_Energie_Batiments  
+https://github.com/vkous/Projet4-Openclassrooms/blob/master/nettoyage_analyse.ipynb  
+https://github.com/AHAMEG/Anticipez_les_besoins_en_consomation_eletrique_de_batiments/blob/main/Prediction_consomation_energie_emissions_CO2.ipynb  
+https://github.com/swanAI/OC-DS-P4-besoins-de-consommation-des-batiments-/blob/main/P%C3%A9lec_01_notebook_02_code.ipynb
