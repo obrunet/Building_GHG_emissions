@@ -4,8 +4,11 @@
 - Feature selection -- not done
 - Feature importance -- done
 - Hyperparameter tuning -- done
+
+
+- documentation + images statiques + TOC + message notebook à runner
 - retraining: save as pickle
-- XAI Shap et LightGBM
+- Shap notebook dédié
 
 
 
